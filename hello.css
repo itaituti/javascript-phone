@@ -1,0 +1,221 @@
+'
+]body{
+    padding: 0;
+    margin: 0;
+}
+
+#phone{
+    border: 10px solid black;
+    height: 650px;
+    width: 350px;
+    border-radius: 10%;
+    position: absolute;
+    left: 400px;
+    top: 60px;
+    background: black;
+}
+
+#onButton{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    background: black;
+    position: absolute;
+    left: 150px;
+    top: 600px;
+    cursor: pointer;
+    border: 1px solid rgb(100, 100, 100);
+}
+
+#bottom{
+    width: 350px;
+    height: 50px;
+    background: black;
+    position: absolute;
+    top: 600px;
+    border-radius: 14px;
+}
+
+#line{
+    width: 350px;
+    height: 20px;
+    background: black;
+    position: absolute;
+    top: 600px;
+}
+
+#offButton{
+    height: 50px;
+    width: 10px;
+    position: absolute;
+    left: 354px;
+    top: 75px;
+    background: black;
+    border-radius: 25%;
+    cursor: pointer;
+    border: none;
+}
+
+#password{
+    visibility: hidden;
+}
+
+.password{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    border: none;
+    cursor: pointer;
+}
+
+#p1{
+    position: absolute;
+    top: 250px;
+    left: 50px;
+}
+
+#p2{
+    position: absolute;
+    top: 250px;
+    left: 150px;
+}
+
+#p3{
+    position: absolute;
+    top: 250px;
+    left: 250px;
+}
+
+#p4{
+    position: absolute;
+    top: 350px;
+    left: 50px;
+}
+
+#p5{
+    position: absolute;
+    top: 350px;
+    left: 150px;
+}
+
+#p6{
+    position: absolute;
+    top: 350px;
+    left: 250px;
+}
+#p7{
+    position: absolute;
+    top: 450px;
+    left: 50px;
+}
+
+#p8{
+    position: absolute;
+    top: 450px;
+    left: 150px;
+}
+
+#p9{
+    position: absolute;
+    top: 450px;
+    left: 250px;
+}
+
+#p0{
+    position: absolute;
+    top: 550px;
+    left: 150px;
+}
+
+
+
+ .apps{
+    width: 50px;
+    height: 50px;
+    border-radius: 10px;
+    visibility: hidden;
+}
+
+#game1{
+    position: absolute;
+    top: 550px;
+    left: 50px;
+    cursor: pointer;
+}
+
+#game2{
+    position: absolute;
+    top: 550px;
+    left: 150px;
+    cursor: pointer;
+}
+
+
+#game3{
+    position: absolute;
+    top: 550px;
+    left: 250px;
+    cursor: pointer;
+}
+
+#game4{
+    position: absolute;
+    top: 50px;
+    left: 25px;
+    cursor: pointer;
+}
+
+#game5{
+    position: absolute;
+    top: 50px;
+    left: 90px;
+    cursor: pointer;
+}
+
+
+
+#video {
+	width: 350px;
+    visibility: hidden;
+    position: absolute;
+    top: 200px;
+}
+
+
+.topcorner{
+   position:absolute;
+   top: 200px;
+   left: 40px;
+   color: black;
+   font-size: 3rem;
+}
+
+#clock{
+    
+    visibility: hidden;
+}
+
+#canvas {
+            position: absolute;
+            top: 0;
+            left: 120;
+            width: 350px;
+            height: 650px;
+        }
+
+
+#tetris1{
+  visibility: hidden;
+  border-radius: 10%;
+}
+
+#calc{
+  visibility: hidden;
+  border-top-left-radius: 5%;
+  border-top-right-radius: 5%;
+  position: absolute;
+  left: 0;
+  height: 600px;
+  }
+
+
